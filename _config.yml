@@ -15,10 +15,11 @@ title: Faith Igomodu's Portfolio # This is what shows up in the tab of the brows
 name: Faith Igomodu 
 headline: Jr. Bioinformatician | Data Scientist 
 description: >- # dont remove this line. this will ignore all new lines until the next section
-Results-driven professional transitioning from QA engineering to bioinformatics, 
-leveraging a Master's degree and self-taught data skills to build robust analysis pipelines for NGS and healthcare datasets. 
-My unique blend of systematic validation expertise and computational biology knowledge
-drives innovative solutions for biological data challenges.
+I am an experienced medical device QA professional transitioning into bioinformatics/tech. 
+I have an MS in Bioinformatics and a strong foundation in mathematics and biology. 
+I am skilled in developing machine learning models for biological datasets, analyzing NGS data (RNA-seq, WGS), and managing large-scale
+data in SQL/NoSQL databases (MongoDB). Proficient in Python, R, Bash, and learning cloud platforms (AWS/GCP) for scalable bioinformatics solutions.
+I am Passionate about applying AI/ML in precision medicine, drug discovery, and computational genomics. 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
