@@ -15,9 +15,10 @@ title: Faith Igomodu's Portfolio # This is what shows up in the tab of the brows
 name: Faith Igomodu 
 headline: Jr. Bioinformatician | Data Scientist 
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Results-driven professional transitioning from QA engineering to bioinformatics, 
+leveraging a Master's degree and self-taught data skills to build robust analysis pipelines for NGS and healthcare datasets. 
+My unique blend of systematic validation expertise and computational biology knowledge
+drives innovative solutions for biological data challenges.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
