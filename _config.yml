@@ -14,7 +14,7 @@ title: Faith Igomodu's Portfolio # This is what shows up in the tab of the brows
 # Hero Section
 name: Faith Igomodu 
 headline: Jr. Bioinformatician | Data Scientist 
-description: 
+description: >- # dont remove this line. this will ignore all new lines until the next section
 I am an experienced medical device QA professional transitioning into bioinformatics/tech. 
 I have an MS in Bioinformatics and a strong foundation in mathematics and biology. 
 I am skilled in developing machine learning models for biological datasets, analyzing NGS data (RNA-seq, WGS), and managing large-scale
